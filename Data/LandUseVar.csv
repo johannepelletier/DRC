@@ -1,0 +1,381 @@
+ID,land_use_section:droits,land_use_section:village,land_use_section:nb_parcelle,land_use_section:superficie1,land_use_section:autre_village,land_use_section:procedure1,land_use_section:person1,land_use_section:person1_habiter,land_use_section:autre2,land_use_section:location1,super_buya:culture,super_buya:jachere_2,super_buya:jachere2_5,super_buya:jachere5_10,super_buya:secondaire,super_buya:paturage,super_buya:permanente,super_buya:eladji,super_buya:primaire,super_buya:marecageuse,super_buya:total,acceder,autre_acces,enfant,autre_enfant
+1,non,autre,null,null,Pas de parcelle propre,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+2,non,buya,null,null,null,,null,null,null,null,2,0,0,2,null,null,null,null,null,null,null,loc,null,loc,null
+3,non,autre,null,null,Ilanga,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac loc,null,ac loc,null
+4,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+5,non,autre,null,null,Ikoyo,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+6,oui,buya,2,null,null,,null,null,null,null,0,0,0,0,null,null,null,null,null,null,null,,null,,null
+7,oui,buya,5,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,,null,,null
+8,non,autre,null,null,Nkode,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac,null,ac,null
+9,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+10,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,,null
+11,non,autre,null,null,Ilanga,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+12,non,buya,null,null,null,,null,null,null,null,0.5,0,0.5,null,null,null,null,null,null,null,null,loc,null,loc,null
+13,oui,buya,1,0.5,null,h,Héritage de parents,buya,null,non,0,0,0,0.5,null,null,null,null,null,null,null,ac,null,h,null
+14,oui,buya,1,4,null,h,Paul elundja bokote,autre,Decede,non,1,0,3,0,0,0,0,0,null,0,4,loc,null,loc,null
+15,non,autre,null,null,Village buya mais location,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+16,oui,buya,2,null,null,,null,null,null,null,0.5,0,1,3.5,0,0,0,0,0,0,5,loc,null,loc,null
+17,oui,buya,2,null,null,,null,null,null,null,1.5,0.5,0,1,2,0,0,0,0,0,null,h,null,ac loc,null
+18,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+19,non,autre,null,null,Ilanga 1,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+20,non,autre,null,null,Ilanga 1,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+21,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+22,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+23,null,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,,null,,null
+24,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+25,non,autre,null,null,Bolendo,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+26,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+27,non,buya,null,null,null,,null,null,null,null,0,0.5,0,0,0,0,0,0,0,0,0.5,loc,null,loc,null
+28,oui,buya,1,1,null,autre,Agronome de l'etat,autre,Mpenzele,non,1,0,0,1,0,0,0,0,0,0,1,loc,null,loc,null
+29,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Elle n'a pas de terrain,elle travail pour le bantou",autre,Mes enfants continueront a travailler chez les bantous.
+30,non,buya,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,ac m loc,null
+31,non,buya,null,null,null,,null,null,null,null,0,0,0.5,0,0,0,0,0,0,0,0,loc,null,loc,null
+32,non,buya,null,null,null,,null,null,null,null,0,0,2,0,null,0,0,0,0,0,0,loc,null,loc,null
+33,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+34,oui,buya,2,null,null,,null,null,null,null,2,0,0,1,0,0,0,0,1,0,0,at,null,h,null
+35,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,ac,null
+36,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+37,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+38,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+39,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+40,oui,buya,2,null,null,,null,null,null,null,1.5,0,0,null,null,null,null,null,null,null,null,h,null,h,null
+41,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+42,non,autre,null,null,Elanga,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+43,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+44,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+45,non,buya,null,null,null,,null,null,null,null,0.5,0,0,0,0,0,0,0,0,0,0,loc,null,loc,null
+46,oui,buya autre,3,null,null,,null,null,null,null,1,5,7,10,4,0,1,1,2,4,35,ac at d h m na loc,null,ac h loc,null
+47,non,buya,null,null,null,,null,null,null,null,0.5,0,0,0,0,0,0,0,0,0,0,loc,null,loc,null
+48,non,buya,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+49,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+50,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+51,oui,buya,1,3,null,autre,Attribuer par l'agronome de l'etat,autre,Nkalamba,non,2,0,1,0,0,0,0,0,0,0,3,loc,null,h loc,null
+52,oui,buya,1,3,null,autre,Agronome de l'etat,buya,null,non,0,0,0,0,0,0,0,0,0,0,3,h,null,h loc,null
+53,oui,buya,2,null,null,,null,null,null,null,1.5,1,0.5,0,0,0,null,0,0,0,1.5,h loc,null,h loc,null
+54,oui,buya,2,null,null,,null,null,null,null,1,0,1.5,0,0,0,0,0,0,0,1.5,at h,null,loc,null
+55,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+56,non,buya,null,null,null,,null,null,null,null,1,0,1,null,0,0,0,0,0,0,2,loc,null,loc,null
+57,oui,buya,3,null,null,,null,null,null,null,5.5,5,4.5,0,0,0,0,0,0,2,17,h,null,h,null
+58,oui,buya,4,null,null,,null,null,null,null,2,11,0,0,0,0,0,0,0,0,13,h,null,h,null
+59,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+60,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+61,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+62,oui,autre,1,4,Bongonde Djole,h,Papa et parent,autre,Bongonde Djole,non,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+63,null,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,,null,,null
+64,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au autre,"Je ne fais pas l'agriculture par manque de terrain, manque d'argent pour acheter le terrain, je suis seulement utilisé comme main d'Å“uvre",au autre,Pour mes enfants c'est la même chose
+65,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+66,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+67,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+68,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+69,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+70,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+71,oui,buya,4,null,null,,null,null,null,null,8,0,null,2,0,0,0,0,6,0,null,ac h m,null,ac h,null
+72,oui,buya autre,4,null,Ilanga 1,,null,null,null,null,3,0,2,0,0,0,0,0,0,0,0,h na,null,h na,null
+73,oui,buya,5,null,null,,null,null,null,null,3,0,10,0,0,0,0,0,0,6,19,h,null,h,null
+74,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+75,oui,autre,2,null,Ilanga,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,h,null,h,null
+76,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+77,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+78,oui,buya,2,null,null,,null,null,null,null,0.75,2,1,0,0,0,0,0,0,3.75,null,loc,null,loc,null
+79,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+80,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+81,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+82,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+83,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+84,oui,buya,1,1.7,null,h,Attribution par l'État congolais,autre,Agronome de secteur /kalamba,non,0,1.7,1.5,0,0,0,0,0,0,0,3.2,ac loc,null,ac h loc,null
+85,oui,buya,1,0.4,null,h,Mako mongonzi,buya,null,non,0.4,0,0,0,0,0,0,0,0,0,0.4,loc,null,h loc,null
+86,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+87,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Prêt ou location,autre,Prêt ou location
+88,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+89,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+90,oui,buya,4,null,null,,null,null,null,null,10,5,6,0,null,null,null,2,null,1,24,au,null,h,null
+91,oui,buya,2,null,null,,null,null,null,null,6.5,null,3.5,0,0,0,0,0,0,0,0,loc,null,h loc,null
+92,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+93,oui,buya,3,null,null,,null,null,null,null,1,2,2,0,0,0,0,0,0,0,5,ac,null,h,null
+94,oui,buya,1,2,null,do,Empeta albert,buya,null,non,0,0,2,0,0,0,0,0,0,0,2,do,null,ac h,null
+95,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+96,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+97,oui,buya,1,4,null,h,Je suis la fille du clan djipanga et papa m'a donné 4 ha de forêt pour réaliser les activités avec mon mari,buya,null,non,1,0,3,0,0,0,0,0,0,0,0,h,null,h,null
+98,oui,buya,3,null,null,,null,null,null,null,2,0,1,0,0,0,0,0,0,0,0,at h loc,null,h,null
+99,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+100,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+101,oui,buya,2,null,null,,null,null,null,null,1,1,1,1,0,0,0,0.5,0,null,4.5,loc,null,h loc,null
+102,oui,buya,3,null,null,,null,null,null,null,2.5,0,3,0,0,0,0,0,0,0,5.5,m,null,h,null
+103,oui,buya,1,2,null,m,Boketsu,buya,null,non,0.5,0,1.5,0,0,0,0,0,0,0,2,loc,null,loc,null
+104,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+105,oui,buya,8,null,null,,null,null,null,null,2,0,0,0,0,0,0,0,2,0,0,h,null,h,null
+106,oui,buya,1,0.5,null,m,Bomponge,buya,null,non,0.5,0,0,0,0,0,0,0,0.5,0,0,m,null,h,null
+107,oui,buya,1,4,null,h,EKOMBE BOFAMBOKA Jean,autre,Mort,oui,0,0,0,4,0,0,0,0,0,0,4,m,null,h,null
+108,oui,buya,2,null,null,,null,null,null,null,1,0,9,3,0,0,0,0,0,0,13,h,null,h,null
+109,oui,buya,1,3,null,h,BONZEMBA,buya,null,non,0.5,0,0,2.5,0,0,0,0,0,0,null,at h loc,null,h,null
+110,oui,buya,4,null,null,,null,null,null,null,2,2,3,3,5,null,null,null,null,null,null,d h,null,d h,null
+111,oui,buya,2,null,null,,null,null,null,null,1,0,2,0,null,null,null,null,null,null,null,h,null,h,null
+112,oui,buya,1,3,null,h,Héritage,buya,null,non,1,0,2,0,0,0,0,0,0,0,0,h,null,h,null
+113,oui,buya,80,null,null,,null,null,null,null,0.8,0,0,0.8,0,0,0,0,0,0,0.8,h,null,h,null
+114,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+115,oui,buya,8,null,null,,null,null,null,null,0,0,0,0,0,0,0,0,0,0,0,h,null,h,null
+116,oui,buya autre,6,null,"Bolongwankoy, buya 2, bonsole, buya 3, indjolo",,null,null,null,null,9,4,4,0,0,0,0,0,0,25,42,at na,null,do h,null
+117,oui,buya,2,null,null,,null,null,null,null,4.5,3,0.5,0,0,0,0,0,0,0,8,h m,null,h,null
+118,oui,buya,1,4,null,h,Mokongo   Simba  frederick,buya,null,non,3,1,0,0,0,0,0,0,0,0,4,h,null,h,null
+119,oui,buya,3,null,null,,null,null,null,null,0.75,2,0,0,0,0,0,0,0,0,2.75,h,null,h,null
+120,oui,buya,2,null,null,,null,null,null,null,1,4,0,0,0,0,0,0,0,0,5,h,null,h loc,null
+121,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Mon mari est maÃ§on,pour le moment nous ne faison pas l'agriculture.",autre,Nous n' avons pas d'enfant.
+122,oui,buya,1,10,null,h,BANYONGO MPELA Marie,autre,Morte,oui,1,4,3,0,0,0,0,0,0,2,null,h,null,h,null
+123,oui,buya,1,2,null,h,ELEYI Norbert,buya,null,non,1,0,1,0,0,0,0,0,0,0,2,h,null,h,null
+124,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,m,null,loc,null
+125,oui,buya,1,1,null,h,Norbert eleyi,buya,null,non,0.5,0,0.5,0,0,0,0,0,0,0,1,h,null,h,null
+126,oui,buya,4,null,null,,null,null,null,null,2,1,3,0,0,0,0,0,0,0,6,at,null,h,null
+127,oui,buya,1,1.5,null,m,BOKETSU Brigitte,buya,null,non,0.5,1,0,0,0,0,0,0,0,0,1.5,loc,null,h,null
+128,oui,buya,3,null,null,,null,null,null,null,1,0,2,0,0,0,0,0,0,0,3,at,null,h,null
+129,oui,buya,4,null,null,,null,null,null,null,1.75,0.25,0,0,0,0,0,0,0,0,2,autre,"Vu mon Ã¢ge ,je ne plus besoin d'ajouter de portion de terre pour cultiver,",,null
+130,oui,buya,1,1.5,null,h,Likota Bafenda Louis,buya,null,non,0.5,0,0,0.5,0,0,0,0,0,0,0,h,null,h,null
+131,oui,buya,2,null,null,,null,null,null,null,1,0,3.5,0,0,0,0.5,0,0,0,5,loc,null,h,null
+132,oui,buya,1,1,null,do,Basingo Longo go Marie jeanne,buya,null,non,0.5,0,0.5,0,0,0,0,0,0,0,0,ac,null,h,null
+133,oui,buya autre,5,null,"Buya 2, bolongwankoy et bonsole",,null,null,null,null,1,2,1,0,0,0,0,0,0,2,6,do h m loc,null,h,null
+134,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,ac,null
+135,oui,buya,1,5,null,h,Simba Stéphane(père du répondant),buya,null,non,3,1,0.5,0,0,0,0,0,0,0.5,5,do,null,h,null
+136,oui,buya autre,2,null,Buya 1,,null,null,null,null,0,0,2.5,0,0,0,0,0,0,0.5,3,d h,null,h,null
+137,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+138,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+139,oui,buya,1,2,null,at do,Les responsables du clan Esangelenkoy : Boyela et Etunga m'avaient donné deux ha et cela a été approuvé par l'agronome de l'État de lors les deux ha sont pour moi depuis 1981,buya,null,non,0.5,0,0,1.5,0,0,0,0,0,0,0,loc,null,h loc,null
+140,oui,buya,3,null,null,,null,null,null,null,3,2,1,0,0,0,0,0,0,0,0,h,null,h,null
+141,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+142,oui,buya,2,null,null,,null,null,null,null,2,2,4,3,3.5,0.5,null,null,null,null,null,h,null,h,null
+143,oui,buya,2,null,null,,null,null,null,null,1.5,0,0,1.5,0,0,0,0,0,0,1.5,h,null,h,null
+144,oui,buya,3,null,null,,null,null,null,null,2,0,2,null,0,0,0,0,0,0,2,h,null,h,null
+145,oui,buya,1,0.5,null,h,Baoto Félicien,buya,null,non,0.5,0.5,0,0,0,0,0,0,0,0,0.5,h,null,h,null
+146,oui,buya,2,null,null,,null,null,null,null,0.5,0,4.5,0,0,0,0,0,0,0,5,loc,null,h,null
+147,oui,buya,1,2,null,h,BOKONGO Cesar,autre,Mort,non,1,0,0,1,0,0,0,0,null,0,2,h,null,h,null
+148,oui,buya,1,8,null,h,BOLUMBU Henriette,autre,Morte,non,1,0,0,7,0,0,0,0,0,0,8,d,null,h,null
+149,oui,buya,2,null,null,,null,null,null,null,1,0,4,0,0,0,0,0,0,0,5,loc,null,h,null
+150,oui,buya,1,2,null,h m,Cezard bokongo,buya,null,non,0.5,0,1.5,0,0,0,0,0,0,0,2,h m,null,h loc,null
+151,oui,buya,2,null,null,,null,null,null,null,1,0,1.5,0,0,0,0,0,0,0,2.5,loc,null,h,null
+152,oui,buya,1,10,null,h m,Bokongo nivard (beau du répondante),buya,null,oui,5,2,0,0,0,0,0,0,0,3,10,h m,null,h,null
+153,oui,buya autre,2,null,Buya 2,,null,null,null,null,2,3,2.5,0,0,0,0,0,0,1,8.5,loc,null,ac h,null
+154,oui,buya,3,null,null,,null,null,null,null,2,2,4.5,0,0,0,0,0,0,2,10.5,m,null,ac h loc,null
+155,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+156,oui,buya,2,null,null,,null,null,null,null,0.5,2,1.5,0,0,0,0,0,0,0,4,h,null,ac h,null
+157,oui,buya,1,1,null,h,Eleyi djibandji,buya,null,oui,0.8,0,1.2,null,null,null,null,null,null,null,2,h,null,h,null
+158,oui,buya,9,null,null,,null,null,null,null,6,5,7,8,10,2,0,0,0,4,null,m loc,null,h,null
+159,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,do,null
+160,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au autre,"Je suis seulement utilisé comme main d'Å“uvre ,",au,null
+161,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+162,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+163,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+164,oui,buya,1,1,null,h,IMBELE BKETE,buya,null,non,0.5,0.5,0,0,0,0,0,0,0,0,1,h,null,h,null
+165,oui,autre,3,null,ILANGA,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,m,null,h,null
+166,oui,buya autre,2,null,Ilanga 2,,null,null,null,null,0.5,1.5,1,1,null,null,null,null,null,null,null,ac at h,null,h,null
+167,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+168,oui,buya,1,1.5,null,h,Elenge ekomboloko Claude( père du répondant),buya,null,non,0.5,0,1,0,0,0,0,0,0,0,1.5,ac,null,h,null
+169,oui,buya,4,null,null,,null,null,null,null,2.5,20,3.5,0,0,0,0,0,0,0,26,d,null,h,null
+170,oui,buya,2,null,null,,null,null,null,null,2,4,null,4,0,0,0,0,0,0,10,au,null,h,null
+171,non,buya,null,null,null,,null,null,null,null,0.025,0.025,0,0,0,0,0,0,0,0,0.5,loc,null,do loc,null
+172,non,buya,null,null,null,,null,null,null,null,0.5,0,0,0,0,0,0,0,0,0,0.5,do m loc,null,h,null
+173,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+174,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Main d'oeuvre,autre,Main d'oeuvre
+175,oui,buya,1,9,null,h,Par défunt père Limbele,buya,null,non,1,2,3.5,2,null,null,0.5,null,null,null,9,h,null,h,null
+176,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+177,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+178,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+179,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+180,oui,buya,1,2.5,null,d,L'ETAT,buya,null,oui,1,0,1.5,0,0,0,0,0,0,0,2.5,loc,null,h,null
+181,oui,buya,4,null,null,,null,null,null,null,6,0,0,4,0,0,2,0,0,0,0,h,null,h,null
+182,oui,buya,1,0.5,null,h,Heleine,buya,null,non,0.5,null,null,null,null,null,null,null,null,null,0.5,loc,null,loc,null
+183,oui,buya,4,null,null,,null,null,null,null,2.5,1,2.5,1,null,0,null,null,null,null,10,ac h m,null,h loc,null
+184,oui,buya,1,2,null,h,Bokebe djafa,buya,null,non,0.5,null,1.5,null,null,null,null,null,null,null,2,h,null,h,null
+185,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+186,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+187,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc autre,Couper la foret du propriétaire afin les produits de la récoltés soient partages:   40% de la recoltes,loc,null
+188,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+189,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+190,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,autre,Ils seront comme nous
+191,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Il travaille pour les autres donc main d'Å“uvre,autre,Seront tirs la main d'oeuvre
+192,oui,buya,5,null,null,,null,null,null,null,0,0,0,8,1,null,0,0,0,2.5,11.5,h,null,h,null
+193,oui,buya,1,2,null,h,Mon père Dieudonné Simba Ikelemba,buya,null,non,0.5,0,0,1.5,0,0,0,0,0,0,2,h,null,h,null
+194,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+195,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,autre,Ils seront toujours des employeurs
+196,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,do,null
+197,oui,buya,1,2.5,null,h loc,Imume,autre,Nkondi,non,1,null,1,0.5,null,null,null,null,null,null,2.5,h loc,null,loc,null
+198,oui,buya,1,4,null,autre,Attribution par l'agronome du territoire,autre,Bikoro,non,1,null,null,3,null,null,null,null,null,null,4,autre,Je  vais couper mes forets attribuer par l'etat,h,null
+199,oui,buya,3,null,null,,null,null,null,null,0.5,7.5,null,null,null,null,null,null,null,null,7.5,h,null,h loc,null
+200,non,buya,null,null,null,,null,null,null,null,3,0,4,0,0,0,0,0,0,0,7,loc,null,loc,null
+201,non,buya,null,null,null,,null,null,null,null,0,0.5,0,0,0,0,0,0,0,0,0.5,do loc,null,h,null
+202,non,buya,null,null,null,,null,null,null,null,0.5,0.5,0,0,0,0,0,0,0,0,1,ac loc,null,h,null
+203,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,do,null
+204,oui,buya,3,null,null,,null,null,null,null,1,0,0,1.5,0,0,0,0,3,0,5.5,au,null,h,null
+205,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac loc,null,h loc,null
+206,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,m,null,loc,null
+207,oui,buya,1,2,null,h,Mbele,buya,null,non,0.5,null,1.5,null,null,null,null,null,null,null,2,loc,null,h loc,null
+208,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+209,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+210,oui,buya,1,4,null,at,Ekotsi,buya,null,non,1,0,0,1,0,0,0,0,0,0,1,at,null,h,null
+211,oui,buya,1,7,null,m,Le défunt père de mon épouse : Mr. Bofanga,buya,null,non,3,1,3,0,0,0,0,0,0,0,7,m,null,h,null
+212,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+213,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+214,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+215,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+216,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,h loc,null
+217,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+218,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,null,,null
+219,oui,buya,2,null,null,,null,null,null,null,2,6,null,null,null,null,null,null,null,null,8,h,null,h,null
+220,oui,buya autre,5,null,Ilanga 1,,null,null,null,null,24.5,1.5,0,0,0,0,0,0,0,40.5,66.5,au,null,h,null
+221,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+222,oui,buya,2,null,null,,null,null,null,null,1.5,null,1,null,null,null,null,null,null,null,2.5,h loc,null,h loc,null
+223,oui,buya,1,0.5,null,h,Bomponge,buya,null,non,0.5,0,0,0.5,0,0,0,0,0,0,50,h,null,h,null
+224,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+225,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+226,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,h,null
+227,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+228,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+229,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+230,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+231,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+232,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Je suis pygmée , pas de moyen pas terrain je suis utilisé comme main d'oeuvre",autre,Main d'oeuvre
+233,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+234,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+235,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+236,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+237,oui,autre,1,1,NGANDA EKELE,ac,MIYOTO,autre,EKELE,non,null,null,null,null,null,null,null,null,null,null,null,loc,null,h,null
+238,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+239,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+240,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+241,oui,buya,1,6,null,m,Djafa bokotoko,autre,Décédé,non,2,4,null,null,null,null,null,null,null,null,6,loc,null,h loc,null
+242,non,buya,null,null,null,,null,null,null,null,1,1,0,0,0,0,0,0,0,0,2,loc,null,loc,null
+243,non,buya,null,null,null,,null,null,null,null,0.5,0,0,0,0,0,0,0,0,0,0.5,loc,null,loc,null
+244,oui,buya autre,2,null,Ilanga 1,,null,null,null,null,0,1.5,0,0,0,0,0,0,0,0,1.5,loc,null,loc,null
+245,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,do,null
+246,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do loc,null,do loc,null
+247,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+248,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+249,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac,null,ac loc,null
+250,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+251,oui,buya,1,1,null,do,Bokongo cesar,buya,null,null,50,0,0,0.5,0,0,0,0,0,0,0.5,ac,null,ac,null
+252,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+253,non,buya,null,null,null,,null,null,null,null,2,1,0,0,0,0,0,0,0,0,3,loc,null,h loc,null
+254,oui,buya,4,null,null,,null,null,null,null,2,18,0,0,0,0,1,0,0,15,36,h,null,h,null
+255,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+256,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+257,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do loc,null,do loc,null
+258,oui,buya,3,null,null,,null,null,null,null,2,11,7,21,null,null,null,null,null,null,41,h,null,h,null
+259,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+260,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+261,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+262,oui,buya autre,4,null,Bengongo,,null,null,null,null,2,0,0.5,0,0,0,0,0,0,0,2.5,h m loc,null,h loc,null
+263,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,h,null
+264,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac loc,null,h,null
+265,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Je suis pygmée, toujours main d'Å“uvre , pas de moyen ,impossible d'avoir le terrain",autre,La même chose
+266,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+267,oui,buya,1,3,null,h,Igola bafambaito,buya,null,non,1,null,2,null,null,null,null,null,null,null,3,h,null,h,null
+268,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Je travail pour les autres,loc,null
+269,oui,buya autre,2,null,Buya 2,,null,null,null,null,2,0,0,0,4,0,0,0,0,0,6,at,null,h,null
+270,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+271,oui,buya,1,1,null,h,ISENGI B 42,buya,null,non,0.5,0,0,0.5,0,0,0,0,0,0,1,h,null,h,null
+272,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,autre,Comme employe
+273,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+274,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,m,null,loc,null
+275,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+276,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+277,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+278,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+279,oui,buya,3,null,null,,null,null,null,null,0.6,2,2,0,0,0,0.4,null,0,1,6,h,null,h,null
+280,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+281,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+282,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+283,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+284,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+285,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+286,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+287,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+288,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+289,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+290,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Employe,autre,Employe
+291,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,m loc,null
+292,oui,buya,2,null,null,,null,null,null,null,1.5,2,0.5,0,0,0,0,0,0,0,4,h,null,h,null
+293,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+294,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+295,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+296,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+297,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+298,oui,buya,2,null,null,,null,null,null,null,2,0,2,0,0,0,0,0,0,0,2,ac,null,h,null
+299,oui,buya,1,1,null,m,LOLEMBA Mimida,buya,null,non,1,1,0,0,0,0,0,0,0,0,1,m,null,m,null
+300,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+301,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,ac,null,h,null
+302,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+303,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+304,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+305,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+306,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,loc,null
+307,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+308,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+309,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,do,null
+310,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Employeur,autre,Emploiyeur
+311,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+312,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,do,null,h,null
+313,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au autre,"Je travaille chez les bantous comme main d'Å“uvre, pas de moyen étant Pygmée je ne peux pas acheter le terrain",au autre,La même chose
+314,oui,autre,1,11.5,Bongonde drapeau,h,Jeanne Nkumu,autre,Bongonde,non,null,null,null,null,null,null,null,null,null,null,null,h,null,h,null
+315,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Si quelq'un a son terrain ,je cultive et en partage en deux",loc,null
+316,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+317,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+318,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+319,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Je travail pour les batous,la renumeration me permet a la survie de ma famille.",loc,null
+320,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Compassassion avec le partage de la production,loc,null
+321,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+322,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+323,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+324,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+325,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+326,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+327,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+328,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+329,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+330,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+331,non,buya,null,null,null,,null,null,null,null,1,1,0,0,0,0,0,0,0,0,2,loc,null,loc,null
+332,non,buya,null,null,null,,null,null,null,null,1,1,0,0,0,0,0,0,0,0,2,loc,null,loc,null
+333,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+334,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+335,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+336,oui,buya,3,null,null,,null,null,null,null,1,3,0,2,0,0,0,0,0,0,6,m,null,h,null
+337,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+338,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+339,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+340,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,ac h,null
+341,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+342,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+343,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+344,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,h,null
+345,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,autre,Je ne pas d'enfant.
+346,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+347,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,h loc,null
+348,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+349,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+350,oui,buya,4,null,null,,null,null,null,null,0.5,3.5,0,0,1,0,0,0,0,0,5,au,null,h,null
+351,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+352,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,,null,loc,null
+353,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+354,oui,buya,1,1.5,null,ac,Babina   ngubu,buya,null,non,0.5,0,0,0.5,0,0,0,0,0,0,0,loc,null,loc,null
+355,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+356,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+357,oui,buya,1,1,null,h,Pierre bobaka,buya,null,non,0.5,null,0.5,null,null,null,null,null,null,null,1,loc,null,h loc,null
+358,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,m loc,null,h,null
+359,non,buya,null,null,null,,null,null,null,null,0,0,0,50,0,0,0,0,0,0,null,loc,null,loc,null
+360,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+361,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+362,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+363,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+364,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,"Je suis main s'ouvre pas de moyen , je ne suis Ã   mesure de louer le terrain",au,null
+365,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+366,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+367,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+368,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+369,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+370,oui,buya,1,15,null,h,LOFETE,buya,null,oui,1,5,4,0,0,0,0,0,0,0,15,h,null,h,null
+371,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+372,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,autre,Je travail pour les autres.,loc,null
+373,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+374,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+375,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,au,null,au,null
+376,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+377,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+378,non,buya,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+379,non,,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null
+380,non,buya,null,null,null,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,loc,null,loc,null

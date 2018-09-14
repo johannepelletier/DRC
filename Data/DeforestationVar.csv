@@ -1,0 +1,381 @@
+ID,coup_for,but_for,but_for_autre,plant_for,coup_mar,but_mar,but_mar_autre,plant_mar,coup_sec,but_sec,but_sec_autre,plant_sec,coup_jac2,but_jac2,but_jac2_autre,plant_jac2,coup_jac2a5,but_jac2a5,but_jac2a5_autre,plant_jac2a5,coup_jac5,but_jac5,but_jac5_autre,plant_jac5,coup_jac10,but_jac10,but_jac10_autre,plant_jac10
+1,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais,patate douce et arachide",0,,null,null
+2,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc,0,,null,null
+3,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+4,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais, haricot, piment fort",0,,null,null,0,,null,null
+5,0,,null,null,0,,null,null,0,,null,null,0.5,a bc,null,"Manioc,patate douce,arachide",0.5,a bc,null,null,0,,null,null,0,,null,null
+6,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+7,1.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Manioc,0,,null,null
+8,0,,null,null,0,,null,null,0,,null,null,4,a bc bo c,null,Voir la liste plus haut,0,,null,null,0,,null,null,0,,null,null
+9,0,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+10,0,,null,null,0,,null,null,1,a,null,Voir plus haut,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+11,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null
+12,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs et patate douce",0,,null,null
+13,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Agriculture, manioc et arachides",0,,null,null
+14,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc,null,"Manioc,mais,arachide",0,,null,null
+15,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc,null,"Mais manioc,patate douce",0,,null,null
+16,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Manioc,null,,null,null
+17,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Voir ci haut,0,,null,null,0,,null,null,0,,null,null
+18,2,a,null,Banane' Manioc et Riz,0.25,a,null,Piment,0,,null,null,null,,null,null,0.75,a,null,Manioc et Maiis,0,,null,null,0,,null,null
+19,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais, patate douce et amarente",0,,null,null,0,,null,null
+20,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,"Manioc, tabac, piment fort, mais et tomate",0,,null,null,0,,null,null,0,,null,null
+21,0,,null,null,0,,null,null,0.5,a,null,"Manioc,mais,haricot,banane",0.8,a,null,"Manioc,mais,haricot,banane,",0,,null,null,0,,null,null,0,,null,null
+22,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais,patate douce,haricot,banane,amarante"
+23,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+24,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais,patate douce,arachide,aubergine,piment"
+25,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais , arachide, banane,patate douce,amarante",0.5,a,null,S6,0,,null,null,0,,null,null
+26,0,,null,null,0,,null,null,0,,null,null,0,,null,null,5,a,null,"Manioc,mais,banane,riz,haricot,amarante",0,,null,null,0,,null,null
+27,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,O,0,,null,null,0,,null,null,0,,null,null
+28,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc bo,null,Manioc et mais,0,,null,null
+29,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+30,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais, patate douce, piment fort, amarente",0,,null,null,0,,null,null
+31,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null
+32,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc, mais, patate douce, arachide",0,,null,null,0,,null,null
+33,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3.5,a,null,Manioc et maïs,0,,null,null
+34,1,a,null,"Maïs, patate douce et manioc",0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs et patate douce",0,,null,null
+35,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null
+36,0,,null,null,0,,null,null,0,,null,null,2,a,null,Voir ci haut,0,,null,null,2,a,null,Voir plus haut,0,,null,null
+37,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Patate douce,0,,null,null,0,,null,null,0,,null,null
+38,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Maiis,0,,null,null,0,,null,null
+39,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc, Mais et Arricot",0,,null,null
+40,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Manioc et Maiis,0,,null,null
+41,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,"Manioc , Patate douce et Arachide",0,,null,null
+42,0,,null,null,0,,null,null,0,,null,null,null,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null
+43,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc,null,"Manioc,maïs et arachide",0,,null,null,0,,null,null
+44,0,,null,null,0,,null,null,0,,null,null,5,a,null,"Manioc, mais et patate douce",0,,null,null,0,,null,null,0,,null,null
+45,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais et patate douce",0,,null,null,0,,null,null
+46,1,a,null,Manioc et banane plantin,0,,null,null,0.5,a,null,Riz et manioc,0.09,a,null,"Ciboule, amarente, ananas, palmier a huile, orangier, avocatier,",0,,null,null,0,,null,null,0,,null,null
+47,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null
+48,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs",0,,null,null,0,,null,null
+49,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc,maïs,arachide",0,,null,null,0,,null,null
+50,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,S7,0,,null,null,0,,null,null
+51,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,5,a bc,null,Manioc,0,,null,null
+52,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+53,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a bc bo,null,"Mais,manioc,patate douce",0,,null,null,0,,null,null
+54,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc,null,"Mais ,manioc ,patate douce",0,,null,null
+55,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.75,a bc c,null,Manioc s5,0,,null,null
+56,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Manioc,null,,null,null
+57,0,,null,null,0,,null,null,0,,null,null,2,a,null,Mais et Manioc,0,,null,null,0,,null,null,0,,null,null
+58,0,,null,null,0,,null,null,0,,null,null,2,a,null,Voir ci haut,0,,null,null,0,,null,null,0,,null,null
+59,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Mais et Piment fort,1,a,null,"Mais, Manioc et Piment",0,,null,null,0,,null,null
+60,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+61,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+62,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null
+63,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+64,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+65,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,patate douce",0,,null,null,0,,null,null,0,,null,null
+66,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a bc,null,Maïs et maïs,0,,null,null,0,,null,null
+67,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Riz et arachide,0,,null,null,0,,null,null
+68,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Riz et arachide( toujours pour son employeur),0,,null,null,0,,null,null
+69,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Le riz et l'arachide,0,,null,null,0,,null,null
+70,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+71,6,a,null,"Manioc, banane,tomate,piment",0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc,banane, tomate,maïs",0,,null,null
+72,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et chanvre(/bangi),0,,null,null,0,,null,null
+73,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc, mais",0,,null,null,0,,null,null
+74,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2.5,a,null,Mais et Manioc,0,,null,null,0,,null,null
+75,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2.5,a,null,Manioc et Mais,0,,null,null,0,,null,null
+76,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,5,a,null,Mais et manioc,0,,null,null
+77,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,patate douce, banane, maïs, arachides",0,,null,null,0,,null,null
+78,null,,null,null,null,,null,null,null,,null,null,0.75,a bc,null,Mais manioc,null,,null,null,null,,null,null,null,,null,null
+79,0,,null,null,0,,null,null,0,,null,null,4,a,null,"Manioc,patate douce, banane",0,,null,null,0,,null,null,0,,null,null
+80,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+81,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+82,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+83,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+84,0,,null,null,0,,null,null,0,,null,null,1.5,a bc,null,S5,0,,null,null,0,,null,null,0,,null,null
+85,null,,null,null,null,,null,null,null,,null,null,0.4,a,null,Manioc,null,,null,null,null,,null,null,null,,null,null
+86,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs",0,,null,null
+87,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,banane,piment , arachide, taro, haricot",0,,null,null,0,,null,null
+88,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,taro,patate douce",0,,null,null,0,,null,null
+89,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Voir ci haut,0,,null,null,0,,null,null
+90,1,a,null,Riz,0,,null,null,0,,null,null,2,a,null,Mais Manioc et Bananes,0,,null,null,0,,null,null,0,,null,null
+91,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2.5,a,null,"Manioc, Mais , Piment ,Tomate et Banane",0,,null,null,0,,null,null
+92,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Arachide et riz,0,,null,null,0,,null,null
+93,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais et arachide",0,,null,null,0,,null,null
+94,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+95,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, arachnides, haricots, patate douce, piment, tomate",0,,null,null,0,,null,null,0,,null,null
+96,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,patate douce,tomate, Anana,piment fort",0,,null,null,0,,null,null,0,,null,null
+97,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs",0,,null,null,0,,null,null
+98,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Patate douce et Manioc,0,,null,null,0,,null,null
+99,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+100,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Riz et arachide,0,,null,null,0,,null,null
+101,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a bc,null,Mais et manioc,0,,null,null
+102,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2.5,a bc,null,S3,0,,null,null
+103,0,,null,null,0,,null,null,0,,null,null,0.5,a bc,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+104,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null,0,,null,null,0,,null,null
+105,2,a,null,Manioc et banane,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+106,0.5,a,null,Manioc et  banane,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+107,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null
+108,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null
+109,0,,null,null,0,,null,null,0,,null,null,null,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+110,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc,banane, maïs, piment",0,,null,null
+111,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, banane",0,,null,null,0,,null,null
+112,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,S8,0,,null,null,0,,null,null
+113,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.8,a,null,Manioc,0,,null,null,0,,null,null
+114,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+115,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+116,0,,null,null,0,,null,null,0,,null,null,0,,null,null,20,a,null,"Manioc, mais, riz, patate douce, piment fort, tomate, niebe, arachide, etc: note: cette superficie et ces cultures englobe même celles louées et celles coupées par lui même .",4,a,null,"Riz, manioc, patate douce et mais",0,,null,null
+117,0,,null,null,0,,null,null,2,a,null,"Manioc, mais,",1,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+118,0,,null,null,0,,null,null,1,a,null,Manioc et banane plantin,1,a,null,Manioc et banane plantin,1,a,null,Manioc et banane plantin,0,,null,null,0,,null,null
+119,null,,null,null,null,,null,null,null,,null,null,0.75,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+120,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Manioc et mais,null,,null,null,null,,null,null,null,,null,null
+121,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+122,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null
+123,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null
+124,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null
+125,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null
+126,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Mais,0,,null,null,0,,null,null
+127,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Patate douce,0,,null,null,0,,null,null
+128,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc plus Aubergine,0,,null,null,0,,null,null
+129,null,,null,null,null,,null,null,null,,null,null,1.75,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+130,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null
+131,null,,null,null,null,,null,null,null,,null,null,0.5,a,null,Palmier a huile,1,a bc,null,Manioc,null,,null,null,null,,null,null
+132,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et maïs,0,,null,null,0,,null,null
+133,2,a,null,"Banane Plantin,riz, piment fort,",0,,null,null,0,,null,null,0,,null,null,2,a,null,"Arachide, manioc",0,,null,null,0,,null,null
+134,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+135,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc, haricot/niebe, piment fort et banane plantin",0,,null,null,0,,null,null
+136,2,a,null,"Banane plantin, piment fort, haricot/niebe",0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+137,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs",0,,null,null,0,,null,null
+138,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc,maïs, riz,piment, patate douce,banane plantain, tomate",0,,null,null
+139,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs",0,,null,null
+140,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc , maïs",0,,null,null
+141,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs, patate douce",0,,null,null,0,,null,null
+142,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc,maïs, piment",0,,null,null
+143,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,"Manioc,maïs et piment",0,,null,null,0,,null,null
+144,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Riz,manioc et patate douce",0,,null,null,0,,null,null,0,,null,null
+145,0,,null,null,0,,null,null,0,,null,null,50,a,null,Manioc et maïs,0,,null,null,0,,null,null,0,,null,null
+146,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, Mais et Patate douce",0,,null,null,0,,null,null
+147,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null
+148,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null
+149,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Manioc,null,,null,null,null,,null,null,null,,null,null
+150,0,,null,null,0,,null,null,0,,null,null,0.5,a bc,null,S2,0,,null,null,null,,null,null,null,,null,null
+151,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Manioc,null,,null,null,null,,null,null
+152,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Manioc,0,,null,null,0,,null,null
+153,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc, arachide et mais",0,,null,null,0,,null,null
+154,0,,null,null,0,,null,null,2,a,null,"Manioc, mais, banane Plantin, patate douce et archide",0,,null,null,0,,null,null,0,,null,null,0,,null,null
+155,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S3,null,,null,null,null,,null,null
+156,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null
+157,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.8,a bc c,null,S2,null,,null,null,null,,null,null
+158,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,6,a,null,"Manioc,riz,piment,canne Ã  sucre , anana, aubergine"
+159,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,patate douce",0,,null,null,0,,null,null,0,,null,null
+160,null,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+161,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+162,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+163,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+164,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+165,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Manioc,0,,null,null,0,,null,null
+166,0,,null,null,0,,null,null,1,a,null,Manioc et mais,0,,null,null,0,,null,null,1,a,null,Mais et manioc,0,,null,null
+167,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+168,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais et tomate",0,,null,null,0,,null,null
+169,0,,null,null,0,,null,null,0,,null,null,2.5,a,null,CACAO Mais et Manioc,0,,null,null,0,,null,null,0,,null,null
+170,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+171,0,,null,null,0,,null,null,0,,null,null,0.025,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+172,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+173,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, maïs",0,,null,null,0,,null,null
+174,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs",0,,null,null,0,,null,null
+175,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs",0,,null,null,0,,null,null
+176,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null
+177,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Mais, Manioc ,Arachide et Riz",0,,null,null,0,,null,null,0,,null,null
+178,0,,null,null,0,,null,null,0,,null,null,0,,null,null,4,a,null,"Maïs, manioc, arachide et patate douce",0,,null,null,0,,null,null
+179,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et patate douce,0,,null,null,0,,null,null
+180,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null
+181,0,,null,null,0,,null,null,0,,null,null,0,,null,null,6,a,null,"Manioc,maïs et banane",0,,null,null,0,,null,null
+182,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+183,2.5,a bc bo,null,S6,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+184,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Manioc,null,,null,null,null,,null,null
+185,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+186,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+187,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+188,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et maïs,0,,null,null,0,,null,null
+189,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+190,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+191,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+192,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+193,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs",0,,null,null
+194,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+195,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc Mais et Arachide,0,,null,null,0,,null,null,0,,null,null
+196,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,arachides, patate douce,riz",1,a,null,"Manioc,patate douce, riz,arachides",0,,null,null,0,,null,null
+197,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S2,null,,null,null
+198,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S3,null,,null,null
+199,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null
+200,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc, mais, piment fort, patate diuce",0,,null,null,0,,null,null
+201,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+202,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais, patate douce",0,,null,null,0,,null,null,0,,null,null
+203,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+204,1,a,null,"Mais, Manioc et Patate douce",0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+205,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1.8,a bc bo,null,S3,null,,null,null,null,,null,null
+206,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, Mais , Patate douce et Piment",0,,null,null,0,,null,null
+207,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,0.5,null,,null,null,null,,null,null
+208,null,,null,null,null,,null,null,null,,null,null,0.6,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+209,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+210,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null
+211,0,,null,null,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc,mais,piment,patate douce,riz,haricots",0,,null,null,0,,null,null
+212,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Maïs et manioc,1,a,null,Manioc et maïs,0,,null,null
+213,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs",0,,null,null,0,,null,null,0,,null,null
+214,0,,null,null,0,,null,null,0,,null,null,2,a,null,S7,0,,null,null,0,,null,null,0,,null,null
+215,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null
+216,1,a bc,null,Riz,null,,null,null,null,,null,null,0.7,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+217,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et mais,0,,null,null,0,,null,null
+218,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+219,null,,null,null,null,,null,null,null,,null,null,null,,null,null,2,a bc,null,S2,null,,null,null,null,,null,null
+220,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Patate douce et manioc,0,,null,null,0,,null,null,0,,null,null
+221,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et arachide,0,,null,null,0,,null,null
+222,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S5,null,,null,null,null,,null,null,null,,null,null
+223,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+224,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais , patate douce",0,,null,null,0,,null,null,0,,null,null
+225,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null
+226,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null
+227,0,,null,null,0,,null,null,0,,null,null,2,a,null,"Manioc, patate douce, piment fort, banane plantain, ciboulette",0,,null,null,0,,null,null,0,,null,null
+228,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, Mais , Piment et Tomate",0,,null,null,0,,null,null
+229,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Arachide,0,,null,null,1,a,null,Manioc et Mais
+230,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,patate douce",0,,null,null,0,,null,null,0,,null,null
+231,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+232,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+233,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs et patate douce",0,,null,null,0,,null,null,0,,null,null
+234,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+235,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null
+236,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et maïs,0,,null,null,0,,null,null
+237,1,a,null,Canna a sucre,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+238,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, Abricot et Arachide",0,,null,null,0,,null,null,0,,null,null
+239,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S3,null,,null,null
+240,null,,null,null,null,,null,null,null,,null,null,5,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+241,null,,null,null,null,,null,null,null,,null,null,2,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+242,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais et patate douce",0,,null,null,0,,null,null,0,,null,null
+243,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+244,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null,0,,null,null
+245,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+246,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+247,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+248,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+249,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+250,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null
+251,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null
+252,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+253,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,Manioc et mais,0,,null,null,0,,null,null,0,,null,null
+254,0,,null,null,0,,null,null,0,,null,null,3,a,null,"Manioc,maïs, banane plantain",0,,null,null,0,,null,null,0,,null,null
+255,0,,null,null,0,,null,null,0,,null,null,2,a,null,S6,0,,null,null,0,,null,null,0,,null,null
+256,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+257,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+258,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,2,a bc,null,S3,null,,null,null
+259,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+260,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+261,0,,null,null,0,,null,null,0,,null,null,0.4,a,null,"Manioc,maïs, patate douce",0,,null,null,0,,null,null,0,,null,null
+262,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null
+263,0,,null,null,0.5,a,null,Tomate et piment,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+264,0,,null,null,0,,null,null,0,,null,null,0.02,a,null,Amaranthe(bitekuteku),0,,null,null,0,,null,null,0,,null,null
+265,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+266,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,mais,arachide,piment fort",0,,null,null,0,,null,null
+267,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,Mais et manioc,null,,null,null
+268,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+269,1,a,null,Riz et Piment,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,10,a,null,Manioc
+270,null,,null,null,null,,null,null,null,,null,null,null,,null,null,3,a bc,null,S3,null,,null,null,null,,null,null
+271,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Voir plus haut,0,,null,null,0,,null,null
+272,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Voir plus haut,0,,null,null,0,,null,null
+273,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Maïs et manioc,0,,null,null,0,,null,null
+274,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs et patate douce",0,,null,null,0,,null,null,0,,null,null
+275,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null,0,,null,null,0,,null,null
+276,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.8,a,null,"Manioc,maïs, piment fort",0,,null,null,0,,null,null
+277,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S2,null,,null,null
+278,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,piment fort, haricot",0,,null,null,0,,null,null,0,,null,null
+279,0,,null,null,0,,null,null,0,,null,null,0.6,a,null,"Manioc, maïs, haricot",0,,null,null,0,,null,null,0,,null,null
+280,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Manioc,null,,null,null
+281,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S2,null,,null,null,null,,null,null
+282,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs, arachide et piment",0,,null,null,0,,null,null
+283,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null
+284,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2.5,a,null,"Manioc, mais et riz",0,,null,null,0,,null,null
+285,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+286,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+287,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Voir plus haut,0,,null,null,0,,null,null,0,,null,null
+288,1,a,null,Manioc et arachide,0,,null,null,0,,null,null,0,,null,null,null,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null
+289,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Riz,0,,null,null,0,,null,null,0,,null,null
+290,0,,null,null,null,,null,null,0,,null,null,0.5,a,null,Manioc et Arachide,0,,null,null,0,,null,null,0,,null,null
+291,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null
+292,0,,null,null,0,,null,null,0,,null,null,1.5,a,null,"Manioc, patate douce",0,,null,null,0,,null,null,0,,null,null
+293,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null
+294,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, patate douce, tomate",0,,null,null,0,,null,null,0,,null,null
+295,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null,0,,null,null
+296,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, tomate",0,,null,null,0,,null,null,0,,null,null
+297,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,arachide et patate douce",0,,null,null
+298,0,,null,null,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et niebe,0,,null,null,0,,null,null
+299,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Arachlde,0,,null,null,0,,null,null,0,,null,null
+300,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et  Mais,0,,null,null,0,,null,null,0,,null,null
+301,1.5,a,null,"Manioc, riz et bananes",0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+302,0.7,a bc,null,Manioc,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+303,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Manioc,null,,null,null,null,,null,null
+304,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S4,null,,null,null
+305,0,,null,null,0,,null,null,0,,null,null,0.6,a,null,Manioc et Arachide,0,,null,null,0,,null,null,0,,null,null
+306,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Patate douce,0,,null,null,0,,null,null,0,,null,null
+307,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et patate diuce,0,,null,null,0,,null,null,0,,null,null
+308,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+309,0,,null,null,1,a,null,"Riz, ananas, banane Plantin( note: il a semé pour son employeur ces culture)",0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+310,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+311,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, patate douce",0,,null,null,0,,null,null,0,,null,null
+312,1,a,null,Piment fort et tomates,1,a,null,Piment  fort et tomates,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+313,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+314,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs",0,,null,null,0,,null,null
+315,null,,null,null,null,,null,null,null,,null,null,0.25,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+316,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+317,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S2,null,,null,null,null,,null,null
+318,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+319,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+320,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+321,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+322,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S2,null,,null,null
+323,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+324,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+325,null,,null,null,null,,null,null,null,,null,null,null,,null,null,2,a bc,null,S4,null,,null,null,null,,null,null
+326,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, mais",0,,null,null,0,,null,null,0,,null,null
+327,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Manioc,null,,null,null,null,,null,null
+328,0,,null,null,0,,null,null,0,,null,null,0.8,a,null,"Manioc, banane plantain, patate douce, aubergine",0,,null,null,0,,null,null,0,,null,null
+329,0,,null,null,0,,null,null,0,,null,null,0.04,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+330,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Banane, maïs, manioc",0,,null,null,0,,null,null,0,,null,null
+331,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+332,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+333,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, Mais et Patate douce",0,,null,null,0,,null,null,0,,null,null
+334,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc plus Patate douce,0,,null,null,0,,null,null,0,,null,null
+335,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+336,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, maïs",0,,null,null,0,,null,null,0,,null,null
+337,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et maïs,0,,null,null,0,,null,null,0,,null,null
+338,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc, maïs, patate douce, piment fort",0,,null,null,0,,null,null,0,,null,null
+339,0,,null,null,0,,null,null,0,,null,null,1,a,null,Maïs et manioc,0,,null,null,0,,null,null,0,,null,null
+340,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+341,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,"Manioc,maïs",0,,null,null,0,,null,null,0,,null,null
+342,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc,maïs et banane",0,,null,null,0,,null,null
+343,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+344,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+345,null,,null,null,null,,null,null,null,,null,null,0.4,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+346,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+347,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et mais,0,,null,null,0,,null,null,0,,null,null
+348,null,,null,null,null,,null,null,null,,null,null,0.4,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+349,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,S2,null,,null,null,null,,null,null,null,,null,null
+350,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et Patate douce,0,,null,null,0,,null,null,0,,null,null
+351,null,,null,null,null,,null,null,null,,null,null,1,a bc,null,S3,null,,null,null,null,,null,null,null,,null,null
+352,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+353,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+354,0,,null,null,0,,null,null,0,,null,null,0,,null,null,50,a,null,"Arachide,manioc et mais",0,,null,null,0,,null,null
+355,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et patate douce,0,,null,null,0,,null,null,0,,null,null
+356,50,a,null,Manioc et arachidr,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+357,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.5,a bc,null,Le manioc,null,,null,null,null,,null,null
+358,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais, patate douce et arachide",0,,null,null,0,,null,null,0,,null,null
+359,0,,null,null,0,,null,null,0,,null,null,50,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+360,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Arricots,0,,null,null,0,,null,null,0,,null,null
+361,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc,0,,null,null,0,,null,null,0.5,a,null,Manioc
+362,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+363,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+364,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+365,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+366,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0.5,a,null,Manioc et mais,0,,null,null,0,,null,null
+367,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc mais,0,,null,null
+368,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais et patate douces",0,,null,null,0,,null,null,0,,null,null
+369,0,,null,null,0,,null,null,0,,null,null,1,a,null,Manioc,0,,null,null,0,,null,null,0,,null,null
+370,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, mais et arachide",0,,null,null,0,,null,null,0,,null,null
+371,0,,null,null,0,,null,null,0,,null,null,2,a,null,Manioc et Mais,0,,null,null,0,,null,null,0,,null,null
+372,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+373,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null,null,,null,null
+374,null,,null,null,null,,null,null,null,,null,null,null,,null,null,0.8,a bc,null,S2,null,,null,null,null,,null,null
+375,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+376,0,,null,null,0,,null,null,0,,null,null,1,a,null,"Manioc, maÃ¯s, patate douce, banane plantain",0,,null,null,0,,null,null,0,,null,null
+377,0,,null,null,1.5,a,null,S7,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+378,0,,null,null,0,,null,null,0,,null,null,0,,null,null,50,a,null,"Manioc,maÃ¯s et patate douce",0,,null,null,0,,null,null
+379,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
+380,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null,0,,null,null
